@@ -14,7 +14,7 @@ Pytorch implementation of our method for MICCAI 2023 paper: "UPCoL: Uncertainty-
 
 ## Abstract
 
-![avatar](./image/framework-final.png)
+![avatar](./image/UPCoL_framework.png)
 
 Semi-supervised learning (SSL) has emerged as a promising approach for medical image segmentation, while its capacity has still been limited by the difficulty in quantifying the reliability of unlabeled data and the lack of effective strategies for exploiting unlabeled regions with ambiguous predictions. To address these issues, we propose an Uncertainty-informed Prototype Consistency Learning (UPCoL) framework, which learns fused prototype representations from labeled and unlabeled data judiciously by incorporating an entropy-based uncertainty mask. The consistency constraint enforced on prototypes leads to a more discriminative and compact prototype representation for each class, thus optimizing the distribution of hidden embeddings. We experiment with two benchmark datasets of two-class semi-supervised segmentation, left atrium and pancreas, as well as a three-class multi-center dataset of type B aortic dissection. For all three datasets, UPCoL outperforms the state-of-the-art SSL methods, demonstrating the efficacy of the uncertainty-informed prototype learning strategy.
 
