@@ -1,6 +1,6 @@
 # UPCoL: Uncertainty-informed Prototype Consistency Learning for Semi-supervised Medical Image Segmentation
 
-![https://link.springer.com/chapter/10.1007/978-3-031-43901-8_63](https://img.shields.io/badge/MICCAI-2023-blue)
+[![MICCAI2023](https://img.shields.io/badge/MICCAI-2023-blue)](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_63)
 
 Pytorch implementation of our method for MICCAI 2023 paper: "UPCoL: Uncertainty-informed Prototype Consistency Learning for Semi-supervised Medical Image Segmentation".
 
