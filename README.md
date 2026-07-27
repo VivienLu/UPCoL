@@ -6,11 +6,11 @@ Pytorch implementation of our method for MICCAI 2023 paper: "UPCoL: Uncertainty-
 
 ## Contents
 
-- [Abstract](##Abstract)
-- [Datasets](##Datasets)
-- [Usage](##Usage)
-- [Visualization](##Visualization)
-- [Acknowledgment](##Acknowledgment)
+- [Abstract](#abstract)
+- [Datasets](#datasets)
+- [Usage](#usage)
+- [Visualization](#visualization)
+- [Acknowledgment](#acknowledgment)
 
 ## Abstract
 
